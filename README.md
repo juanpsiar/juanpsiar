@@ -1,16 +1,23 @@
-### Hi there 👋
+- 👋 
+Hi, I’m @juanpsiar, a Software developer with 8 years of experience in requirements implementation, solution design, and application creation. Within my experience have worked with FrontEnd technologies such as JS, HTML, CSS, Angular, and ReactJS, as well Backend technologies such as C#, .Net, Java and NodeJS, I also have a Master Degree in Software Development.
 
-<!--
-**juanpsiar/juanpsiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 
+I am a curious person, with great adaptability, and a continuous desire to learning, I always seek to improve both my technical skills and my soft skills.
 
-Here are some ideas to get you started:
+- 📫 Data contact: 
+   - Twitter: https://twitter.com/juanpsyar
+   - Platzi Account: https://platzi.com/p/juanpsiar/
+   - Linkedin: https://www.linkedin.com/in/juanpsiar/
+   - HackerRank: https://www.hackerrank.com/juanpsiar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ 
+
+
+
+<!---
+JuanPSigcho/JuanPSigcho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+ 
