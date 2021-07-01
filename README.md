@@ -5,7 +5,7 @@ Hi, I’m @juanpsiar, a Software developer with 8 years of experience in require
 I am a curious person, with great adaptability, and a continuous desire to learning, I always seek to improve both my technical skills and my soft skills.
 
 - 📫 Data contact: 
-   - Twitter: https://twitter.com/juanpsyar
+   - Twitter: https://twitter.com/juanpsiar
    - Platzi Account: https://platzi.com/p/juanpsiar/
    - Linkedin: https://www.linkedin.com/in/juanpsiar/
    - HackerRank: https://www.hackerrank.com/juanpsiar
